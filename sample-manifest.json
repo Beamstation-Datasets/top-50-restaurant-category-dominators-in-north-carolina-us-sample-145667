@@ -1,12 +1,12 @@
 {
-  "export_job_id": "952f61b2-bb78-4d2f-8ac8-8d0f6a978a85",
+  "export_job_id": "8e838e05-3d76-4df5-aa9d-cf945a924dfe",
   "id_short": 145667,
-  "published_at": "2026-04-10T19:15:43Z",
+  "published_at": "2026-04-19T07:45:28Z",
   "repo_name": "top-50-restaurant-category-dominators-in-north-carolina-us-sample-145667",
   "sample_asset_name": "beamstation_145667_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/145667/beamstation_145667_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "5da499e2d8dfe7039013afe95c718c47337706fb1c8d34a59da3e84db42d5bf4",
-  "sample_size_bytes": 40721,
+  "sample_sha256": "aec1a9693b35d6d588fca14c6d15e4bcbba9998e11f9fa0e50611d45fc3b510e",
+  "sample_size_bytes": 39834,
   "total_records": 50
 }
