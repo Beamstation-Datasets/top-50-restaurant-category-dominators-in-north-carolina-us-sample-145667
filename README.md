@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:18:59.381226+00:00 |
+| Last export | 2026-04-15T07:08:48.939307+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-north-carolina-us-sample-145667/releases/download/sample-latest/beamstation_145667_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
