@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in North Carolina, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `145667` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 74 records |
-| Free sample size | 7 records (9.46%) |
-| Last export | 2026-04-22T13:26:22.585599+00:00 |
+| Full dataset size | 62 records |
+| Free sample size | 6 records (9.68%) |
+| Last export | 2026-04-29T14:11:25.182750+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-north-carolina-us-sample-145667/releases/download/sample-latest/beamstation_145667_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
